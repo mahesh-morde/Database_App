@@ -5,7 +5,7 @@ import java.lang.runtime.SwitchBootstraps;
 import java.util.List;
 import java.util.Scanner;
 
-public class MainApp {
+public class MainApp{
 
 	public static void main(String[] args) {
 		
