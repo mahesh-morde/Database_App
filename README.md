@@ -1,4 +1,4 @@
-# Database_App
+# Console-based Database Management
 
 Student Database Management:
 The project focuses on managing a database of students, including their personal information and academic records.
